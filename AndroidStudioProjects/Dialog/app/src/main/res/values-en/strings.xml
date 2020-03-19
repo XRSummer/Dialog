@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="mydialog_btn_ok">ok</string>
+    <string name="mydialog_btn_cancel">cancel</string>
+    <string name="mydialog_tv_title">Tips</string>
+    <string name="mydialog_click">You click</string>
+    <string name="main_btn_blue">Switch to blue theme style</string>
+    <string name="main_btn_gray">Switch to dark gray theme style</string>
+    <string name="main_btn_default">Toggle default theme style</string>
+    <string name="main_btn_change">Switch theme style</string>
+    <string name="main_dialog_title">Are you sure you want the theme style</string>
+</resources>
